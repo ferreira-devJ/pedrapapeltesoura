@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pedra papel tesoura</string>
+    <string name="onClick">onClick</string>
+</resources>
